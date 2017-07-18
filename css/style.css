@@ -76,7 +76,7 @@ body{
 
 .cap1{
     line-height: 35px;
-    height: 800px;
+    height: 700px;
     width: 290px;
     padding-top: 560px;
     background:url(../img/sc1.png) no-repeat;
@@ -86,7 +86,7 @@ body{
 
 .cap2{
     line-height: 35px;
-    height: 800px;
+    height: 700px;
     width: 290px;
     padding-top: 560px;
     background:url(../img/sc2.png) no-repeat;
@@ -98,7 +98,7 @@ body{
 
 .cap3{
      line-height: 35px;
-    height: 800px;
+    height: 700px;
     width: 290px;
     padding-top: 560px;
     background:url(../img/sc3.png) no-repeat;
@@ -112,11 +112,36 @@ body{
     text-align: center;
     padding: 30px;
 }
+
+
+
+.mail{
+      background-color: #190b56;
+    border: 1px solid #210e75;
+    box-shadow: 1px 1px 0 rgba(255, 255, 255, .4) inset,
+                0 0 4px rgba(0, 0, 0, .8) inset,
+                2px 2px 2px rgba(0, 0, 0, .4);
+    color: #fff;
+    margin: 2em 0;
+    padding: 2em;
+}
+
+.contact{
+   color: white;
+}
+
+.p4{
+    font-size: 16px;
+    padding-top: 50px;
+}
+
+
 .c2016{
     color: #ffffff;
     margin: 0 auto;
     font-size: 18px; 
     font-family: "Open Sans";
+    width: 100%;
 }
 
 
